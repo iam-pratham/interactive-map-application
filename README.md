@@ -1,1 +1,1 @@
-# map-application
+# interactive-map-application
